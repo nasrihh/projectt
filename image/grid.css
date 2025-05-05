@@ -1,0 +1,6 @@
+.container{
+    display: flex;
+    grid-template-columns: repeat(5,lfr);
+    grid-template-rows: 100px 300px 100px;
+    gap: 2px;
+}

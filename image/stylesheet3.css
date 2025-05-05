@@ -1,0 +1,22 @@
+.header{
+    font-size: 27px;
+
+}
+
+.text-box1{
+        border: 2px solid ;
+        height: 120px;
+        width: 600px;
+        margin: 20px;
+        padding: 10px;
+        border-radius: 20px;
+}
+
+.text-box3{
+    border: 2px solid red;
+    height: 120px;
+    width: 600px;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 20px;
+}

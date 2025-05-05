@@ -1,0 +1,42 @@
+.header{
+    display: flex;
+}
+.child-header2{
+    flex-direction: row-reverse;
+    margin-left: 1100px;
+}
+.child-header{
+    flex-direction: row;
+
+}
+.box{
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    border: solid 2px black;
+}
+.main{
+    display: flex;
+}
+.box1{
+    width: 300px;
+    height: 600px;
+    background-color: aqua;
+}
+.text1{
+    color: rgb(137, 20, 92);
+    font-size: 400px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.text2{
+    
+    color: rgb(231, 247, 11);
+    font-size: 400px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.circl{
+    height: 170px;
+    width: 180px;
+    margin-top: 450px;
+    z-index: -60;
+}
